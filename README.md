@@ -13,9 +13,9 @@ I'm a BS Information Technology graduate (Digital Arts & Design Track) from the 
 
 🚀 What am I currently working on?
 
-Sharpening my Flutter & full-stack skills after completing internships at NTEK Systems Inc. and Traevents.Co
-Building personal projects to expand my portfolio
-Open to junior developer opportunities 🙌
+• Sharpening my Flutter & full-stack skills after completing internships at NTEK Systems Inc. and Traevents.Co
+• Building personal projects to expand my portfolio
+• Open to junior developer opportunities 🙌
 
 📬 How to reach me?
 
