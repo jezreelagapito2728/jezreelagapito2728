@@ -9,12 +9,7 @@
 </p>
 
 👨‍💻 Who am I?
-I'm a BS Information Technology graduate (Digital Arts & Design Track) from the Technological Institute of the Philippines. I build full-stack web apps and cross-platform Flutter mobile apps and I care a lot about clean UI/UX and practical, real-world features. <br>
-
-🚀 What am I currently working on? <br>
-• Sharpening my Flutter & full-stack skills after completing internships at NTEK Systems Inc. and Traevents.Co <br>
-• Building personal projects to expand my portfolio <br>
-• Open to junior developer opportunities 🙌<br>
+I'm a BS Information Technology graduate (Digital Arts & Design Track) from the Technological Institute of the Philippines. I build full-stack web apps and Front end cross-platform Flutter mobile apps and I care a lot about clean UI/UX and practical, real-world features. <br>
 
 📬 How to reach me? <br>
 Email: jezreelagapito2728@gmail.com <br>
