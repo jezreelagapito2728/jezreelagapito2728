@@ -29,8 +29,3 @@ Location: San Mateo, Rizal, Philippines 🇵🇭
 
 🎓 Dean's List, 2022–2023
 🎓 Dean's List, 2023–2024
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jezreelagapito2728&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
