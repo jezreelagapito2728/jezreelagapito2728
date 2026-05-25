@@ -9,23 +9,23 @@
 </p>
 
 👨‍💻 Who am I?
-I'm a BS Information Technology graduate (Digital Arts & Design Track) from the Technological Institute of the Philippines. I build full-stack web apps and cross-platform Flutter mobile apps — and I care a lot about clean UI/UX and practical, real-world features.
+I'm a BS Information Technology graduate (Digital Arts & Design Track) from the Technological Institute of the Philippines. I build full-stack web apps and cross-platform Flutter mobile apps — and I care a lot about clean UI/UX and practical, real-world features. <br>
 
-🚀 What am I currently working on?
+🚀 What am I currently working on? <br>
 
-• Sharpening my Flutter & full-stack skills after completing internships at NTEK Systems Inc. and Traevents.Co
-• Building personal projects to expand my portfolio
-• Open to junior developer opportunities 🙌
+• Sharpening my Flutter & full-stack skills after completing internships at NTEK Systems Inc. and Traevents.Co <br>
+• Building personal projects to expand my portfolio <br>
+• Open to junior developer opportunities 🙌<br>
 
-📬 How to reach me?
+📬 How to reach me? <br>
 
-Email: jezreelagapito2728@gmail.com
-Phone: 09298004264
-Portfolio: agapito-portfolio-a1n9.vercel.app
-Location: San Mateo, Rizal, Philippines 🇵🇭
+Email: jezreelagapito2728@gmail.com <br>
+Phone: 09298004264 <br>
+Portfolio: agapito-portfolio-a1n9.vercel.app <br>
+Location: San Mateo, Rizal, Philippines 🇵🇭 <br>
+<br>
 
+🏆 Achievements <br>
 
-🏆 Achievements
-
-🎓 Dean's List, 2022–2023
-🎓 Dean's List, 2023–2024
+🎓 Dean's List, 2022–2023 <br>
+🎓 Dean's List, 2023–2024 <br>
